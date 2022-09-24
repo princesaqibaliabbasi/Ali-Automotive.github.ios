@@ -1,0 +1,128 @@
+body{
+    font-family: 'Aboreto', cursive;
+
+
+}
+
+
+#body-1{
+font-family: 'Aboreto', cursive;
+
+background-image: url(k\ \(8\).jpg) ;
+
+background-repeat: no-repeat;
+background-size: cover;
+height: 540px;
+
+
+
+}
+#navy{
+    display: none; 
+
+}
+
+
+
+#a1:after{
+    content: "";
+    position: absolute;
+    top: 50px;
+    left: 40px;    
+   background-color: aliceblue;
+    height: 3px;
+    width: 0%;
+    transition: 0.3s;
+    border-radius: 5px;
+
+    }
+    #a1:hover{
+        color: black;
+    font-weight: bolder;
+    
+    }
+    
+    #a1:hover:after{
+    width: 55%;
+    
+    
+    }
+    
+/*     
+    #bd-none{
+        border: 2px solid white;
+        border-left: none;
+        border-right: none;
+        border-top:none;
+
+
+    } */
+
+
+    #btn-1{
+        border:3px solid black ;
+        border-top: none;    
+        border-left: none;
+        border-right: ;
+        
+
+
+
+    }
+
+
+
+
+@media(min-width:1024px){
+
+
+    #btn-1{
+        border:3px solid black ;
+        border-top: none;    
+        border-left: none;
+        border-right: ;
+        position:relative;
+        top: 50px;
+        right:10px;
+
+    }
+
+
+
+ #img-none{
+    
+    height: 300px;
+    position:relative;
+     margin-top:80px;   
+        
+        
+    }
+    
+        #text-size2{
+        position:relative;
+        bottom:30px;
+            font-size: 30px;
+            
+        }
+
+    #navy{
+    display:none;
+    color: white;
+    
+        
+    }
+     
+#ds-none{
+display:block;
+
+    
+}
+
+
+
+
+
+}
+
+
+

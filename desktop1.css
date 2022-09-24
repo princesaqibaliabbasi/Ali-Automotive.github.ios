@@ -1,0 +1,31 @@
+#what:hover{
+box-shadow: 0px 0px 20px 5px green;
+border-radius: 50px;
+transition: 1s;
+
+}
+
+.card:hover{
+    width: 18rem; 
+    background-color: orange;
+     color: aliceblue;
+     font-weight: bolder;
+    transition: 1s;
+    font-size: 20px;
+
+}
+
+.card-body{
+    box-shadow: 0px 0px 20px 5px orange;
+
+
+
+
+}
+.orange{
+    box-shadow: 0px 0px 20px 5px orange;
+border: 2px solid blanchedalmond;
+
+
+
+}

@@ -1,0 +1,52 @@
+@media(min-width:320px)and (max-width:767px)
+{
+
+#img-1{
+    
+    height: 200px;
+    position:relative;
+    right: 10px;
+    top: 50px;
+    
+
+
+}
+
+#map{
+width: 300px;
+
+}
+
+#social-lo{
+
+    position:relative;
+    right: 135px;
+
+}
+
+#text-p{
+    font-size: 30px;
+    text-align:center;
+
+}
+
+#card-marg{
+    margin-top: 50px;
+display: grid;
+place-items:center;    
+
+
+
+}
+    
+
+
+
+
+
+
+
+
+
+
+}

@@ -1,0 +1,52 @@
+@media(min-width:768px)and
+(max-width:1024px){
+
+.navbar-nav{
+position: relative;
+left: 50px;
+
+}
+
+#img-1{
+
+height: 260px;
+
+
+}
+
+
+#social-lo{
+    position:relative;
+    right: 130px;   
+    }
+    
+
+    #map{
+        width:700px;
+        
+        }
+    
+
+        #text-p{
+            font-size: 30px;
+            text-align:center;
+        
+        }
+
+
+        #card-wid{
+            width:240px;
+                   
+            }        
+
+
+
+
+
+
+
+
+
+
+
+}

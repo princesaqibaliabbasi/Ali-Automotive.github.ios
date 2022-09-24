@@ -1,0 +1,70 @@
+@media(max-width:450px){
+
+    #navy{
+        display: block;
+              color: white;
+            position: relative;
+        left: 20px;
+          
+      }
+    
+
+      #ds-none{
+        display: none;
+
+
+      }
+
+      #text-size2{
+        font-size: 30px;
+        position: relative;
+            bottom: 50px;
+        
+        
+            
+        }
+        
+        #img-none{
+        display: none;
+        
+            
+            
+        }
+        
+    #btn-1{
+      border:3px solid black ;
+      border-top: none;    
+      border-left: none;
+      border-right: ;
+      position: relative;
+      top: -45px;
+  
+  
+  
+    }
+        
+
+
+
+
+
+      
+    
+    
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
